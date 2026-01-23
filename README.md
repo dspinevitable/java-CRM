@@ -1,6 +1,6 @@
 Java CRM – Desktop Customer Relationship Management System
 
-This project is a Java-based desktop Customer Relationship Management (CRM) application developed using Core Java and JavaFX, focusing on managing customers, appointments, and business schedules efficiently. The application implements complete CRM functionality through Java logic, without using any web technologies.
+This project is a Java-based desktop Customer Relationship Management (CRM) application developed using Core Java and JavaFX, focusing on managing customers, appointments, and business schedules efficiently. The application implements complete CRM functionality through Java logic, without using any web technologies. 
 
 The system provides a secure login mechanism, customer management module, appointment scheduling with calendar views, and analytical reports. All business rules, validations, and workflows are handled entirely in Java, demonstrating strong object-oriented design and backend logic implementation.
 
