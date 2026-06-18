@@ -4,7 +4,7 @@ This project is a Java-based desktop Customer Relationship Management (CRM) appl
 
 The system provides a secure login mechanism, customer management module, appointment scheduling with calendar views, and analytical reports. All business rules, validations, and workflows are handled entirely in Java, demonstrating strong object-oriented design and backend logic implementation.
 
-🔹 Key Functionalities
+🔹Key Functionalities
 
 User Authentication
 
